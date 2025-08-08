@@ -1,0 +1,18 @@
+#cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#rodape{
+    justify-content:end;
+    padding: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+}
